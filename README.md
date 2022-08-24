@@ -6,7 +6,7 @@ Furniture Store with React. Features product filter page, Stripe and Netlify ser
 
 ## Site
 
-<a href="" target="_blank">ComfySloth Furniture Store</a>
+<a href="https://comfyslothfurniture.netlify.app/" target="_blank">ComfySloth Furniture Store</a>
 
 ## Technologies
 
